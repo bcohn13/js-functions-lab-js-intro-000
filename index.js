@@ -6,3 +6,7 @@ function happyHolidays() {
 function happyHolidaysTo(name) {
   return `Happy holidays, ${name}!`
 }
+
+function happyCustomHolidayTo(holdiay, name) {
+  return `Happy ${holiday}, ${name}!`
+}
